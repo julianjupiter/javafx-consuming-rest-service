@@ -1,0 +1,10 @@
+
+g	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¢„õªÝ1
+z
+java:S1450"]Remove the "resourceBundle" field and declare it as a local variable in the relevant methods.(¨“É‘8Á„õªÝ1
+{
+java:S2142)"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(òž¶È8Â„õªÝ1
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ8Å„õªÝ1
+O
+java:S1068"2Remove this unused "resourceBundle" private field.(¨“É‘8Å„õªÝ1
