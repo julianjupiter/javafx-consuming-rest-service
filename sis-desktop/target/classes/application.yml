@@ -1,4 +1,0 @@
-applicationName: Student Information System
-sisServiceBaseUrl: http://localhost:8080/sis/api
-messages: messages/messages
-locale: en
