@@ -1,0 +1,22 @@
+# server
+server:
+  port: 8080
+  servlet:
+    context-path: /sis/api
+spring:
+  application:
+    name: sis-service
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/sis?serverTimezone=Asia/Manila
+    username: root
+    password: root123
+    jpa:
+      database-platform: org.hibernate.dialect.MySQL8Dialect
+      hibernate:
+        ddl-auto: none
+  messages:
+    basename: i18n/messages
+  threads:
+    virtual:
+      enabled: true
