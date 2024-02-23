@@ -21,3 +21,6 @@ f
 6src/main/java/com/julianjupiter/sis/model/Student.java,7\c\7c658f34956cac8e5f7f7bf887c204590c5ceafb
 x
 Hsrc/main/java/com/julianjupiter/sis/util/OffsetDateTimeDeserializer.java,8\9\89107ed2398892a16d375b21602d2f6430087eb0
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
